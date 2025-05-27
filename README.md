@@ -1,5 +1,5 @@
 hello there
-```math
+<!---```math
 \mmlToken{ms}[fontfamily="goombafont; color:red;
 pointer-events: none;
 z-index: -10;
@@ -14,3 +14,4 @@ opacity: 0.5;
 animation: 0.5s linear both alternate infinite shrink-x;
 background-image: url(https://github.com/verygenericname/verygenericname/blob/main/readme/pfp.svg?raw=true);
 background-attachment: fixed !important;"]{}
+--->
